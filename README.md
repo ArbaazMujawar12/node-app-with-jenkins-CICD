@@ -198,4 +198,4 @@ GitHub sends POST request to Jenkins.
 
 - Installs dependencies
 
-- Restarts Node app using PM2
+- Restarts Node app using PM2.
