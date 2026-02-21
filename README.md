@@ -112,6 +112,15 @@ REMOTE_USER    = 'ubuntu'
 REMOTE_PATH    = '/home/ubuntu/node-app'
 ```
 
+### Environment Variables Explanation
+
+- SERVER_IP: Private IP of target server
+- SSH_CREDENTIAL: Jenkins stored SSH key ID
+- REPO_URL: GitHub repository URL
+- BRANCH: Branch to deploy
+- REMOTE_USER: Target server username
+- REMOTE_PATH: Deployment directory on target server
+
 ---
 
 ## **STEP 4: Configure GitHub Webhook**
